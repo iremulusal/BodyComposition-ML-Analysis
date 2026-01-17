@@ -1,4 +1,4 @@
-# **DSA210-TERM PROJECT**
+# **Body-Composition-ML-Analysis**
 
 ## **Project Overview**
 Over the next three months, I will systematically examine how daily habits including total caloric intake, macronutrient distribution (protein, carbohydrates, and fats), sleep duration, and exercise time affect my body composition, specifically focusing on changes in body fat percentage and overall weight. The ultimate goal is to identify and quantify which habits play the most pivotal role in shaping my physical outcomes, while also gaining deeper insight into how my body responds to these factors, thereby streamlining my weight loss and fat reduction journey.
